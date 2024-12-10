@@ -1,11 +1,5 @@
 # Multivariate Time-Series Classification with Shape-Based Interpretability
 
-## Overview
-This project focuses on multivariate time-series classification while providing shape-based interpretability. Below is an overview of the various functions and scripts used in this project.
-
-## Project Structure
-The repository contains the following files:
-
 ### 1. **`samples_analyze.py`**
 This file is responsible for creating visualizations to analyze multivariate data. Key functionalities include:
 - Plotting the original multivariate input samples.
